@@ -1,0 +1,10 @@
+Hi priyan,
+
+Your hw1 is graded. Your total grade is 4.5%
+
+
+Unable to run the code via sbt or through intellij : -1.5% (Due to missing dependency lib/ dir missing)
+Missing map reduce modelling and simulation :-1%
+
+Thank you,
+Mohammed Siddiq
